@@ -173,7 +173,7 @@
     animation: python 10s;
   }
   .ML{
-    width: 5%;
+    width: 55%;
     animation: ML 10s;
   }
   @keyframes html{
@@ -208,7 +208,7 @@
     0%{
       width: 0%;
     }100%{
-      width: 5%;
+      width: 55%;
     }
   }
   @keyframes slide{
