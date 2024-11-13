@@ -201,14 +201,14 @@
     0%{
       width: 0%;
     }100%{
-      width: 75%;
+      width: 85%;
     }
   }
   @keyframes ML{
     0%{
       width: 0%;
     }100%{
-      width: 55%;
+      width: 70%;
     }
   }
   @keyframes slide{
