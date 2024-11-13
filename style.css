@@ -169,11 +169,11 @@
     animation:javascript  10s;
   }
   .python{
-    width: 75%;
+    width: 85%;
     animation: python 10s;
   }
   .ML{
-    width: 55%;
+    width: 70%;
     animation: ML 10s;
   }
   @keyframes html{
